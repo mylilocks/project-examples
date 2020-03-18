@@ -1,4 +1,4 @@
-# Artifactory Java Client Examples
+# Artifactory Java Client Examples Updated
 ## Overview
 The Artifactory Java Client provides a set of java APIs which you use to work with JFrog Artifactory from your java code.
 It Allows managing Artifactory repositories, users, groups, permissions and system configuration. It also allows searches, 
